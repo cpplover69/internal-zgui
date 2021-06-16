@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\imgui">
+      <UniqueIdentifier>{a37ef82e-dee4-4dd9-8cc7-0eb66a529567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zgui">
+      <UniqueIdentifier>{d40cd9ce-29a1-4a93-8cf8-e5cd2d03dca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csgosdkdontask">
+      <UniqueIdentifier>{09d2d634-c017-4f20-ae4c-e563b3027a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csgosdkdontask\dependencies">
+      <UniqueIdentifier>{10838b3b-9f20-4513-937c-cc3ce8c71a0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csgosdkdontask\dependencies\interfaces">
+      <UniqueIdentifier>{73cb33fa-e9ea-4367-b8d8-2d5c249609de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csgosdkdontask\dependencies\utilities">
+      <UniqueIdentifier>{5619c4e5-df12-4e07-9d9e-d698ff6e5d96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="configs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\dependencies\interfaces\interfaces.cpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\dependencies\utilities\hook.cpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\dependencies\utilities\netvars.cpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\dependencies\utilities\render.cpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\dependencies\utilities\utilities.cpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="thing\zgui.cpp">
+      <Filter>zgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="class.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="configs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="worker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_xorstr.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_image.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\cglobalvarsbase.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ibaseclientdll.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\icliententitylist.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\iclientmode.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\iclientstate.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\iconsole.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\igameeventmanager.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\iinput.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ilocalize.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\imaterialsystem.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\interfaces.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ipanel.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\isurface.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ivdebugoverlay.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\iveffects.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ivengineclient.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ivmodelinfo.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\interfaces\ivmodelrender.hpp">
+      <Filter>csgosdkdontask\dependencies\interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\utilities\fnv.hpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\utilities\hook.hpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\utilities\netvars.hpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\utilities\render.hpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\dependencies\utilities\utilities.hpp">
+      <Filter>csgosdkdontask\dependencies\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="thing\zgui.hpp">
+      <Filter>zgui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="spoofcalls.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="detours.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="imgui\LICENSE.txt">
+      <Filter>Source Files\imgui</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

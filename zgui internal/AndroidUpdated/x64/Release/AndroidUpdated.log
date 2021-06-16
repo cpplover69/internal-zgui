@@ -1,0 +1,323 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling spoofcalls.asm...
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  MainFunctions.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,148): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,120): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,89): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,108): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,80): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(299,141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(299,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(313,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(327,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(327,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,65): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,49): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(353,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(353,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(359,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(359,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(393,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(393,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,79): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,71): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,79): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,71): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(512,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(512,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(565,59): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(565,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(642,97): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(642,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(644,95): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(644,70): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(647,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(647,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(663,92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(663,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(713,97): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(713,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(715,95): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(715,70): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(718,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(718,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(742,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(798,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(798,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(806,58): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(806,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(882,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(882,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(890,58): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(890,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(937,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(937,48): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(954,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(954,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(975,59): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(975,47): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\dependencies\utilities\render.cpp(40,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(48,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(48,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(50,159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,187): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(51,169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,198): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(52,167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,247): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(53,177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(57,156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(376,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(396,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(396,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(396,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(396,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(396,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(414,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(415,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(416,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(417,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(418,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(419,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\MainFunctions.cpp(420,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  configs.cpp
+  interfaces.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\source-sdk\math\vector2d.hpp(44,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  hook.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\dependencies\utilities\hook.cpp(67,79): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\dependencies\utilities\hook.cpp(67,79): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+  netvars.cpp
+  render.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\source-sdk\math\vector2d.hpp(44,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\dependencies\utilities\render.cpp(40,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  utilities.cpp
+  zgui.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,148): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,120): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(266,89): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,108): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,80): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(267,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(290,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(291,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(292,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(293,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(294,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(295,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(299,141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(299,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(301,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(313,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(318,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(321,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(324,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(327,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(327,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(346,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,65): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,49): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(347,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(353,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(353,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(359,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(359,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(393,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(393,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,79): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,71): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(424,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,79): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,71): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,63): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(459,51): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(512,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(512,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(565,59): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(565,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(642,97): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(642,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(644,95): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(644,70): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(647,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(647,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(663,92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(663,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(713,97): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(713,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(715,95): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(715,70): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(718,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(718,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(742,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(798,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(798,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(806,58): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(806,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(882,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(882,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(890,58): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(890,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(937,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(937,48): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(954,63): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(954,51): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(975,59): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\thing\zgui.cpp(975,47): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+  worker.cpp
+C:\Users\rw443\Desktop\zgui internal\AndroidUpdated\worker.cpp(203,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+render.obj : error LNK2005: "unsigned long render::main_font" (?main_font@render@@3KA) already defined in MainFunctions.obj
+render.obj : error LNK2005: "float __cdecl render::get_frametime(void)" (?get_frametime@render@@YAMXZ) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::get_text_size(unsigned long,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int &,int &)" (?get_text_size@render@@YAXKV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAH1@Z) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::text(int,int,struct color,int,bool,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?text@render@@YAXHHUcolor@@H_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::filled_rect(int,int,int,int,struct color)" (?filled_rect@render@@YAXHHHHUcolor@@@Z) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::rect(int,int,int,int,struct color)" (?rect@render@@YAXHHHHUcolor@@@Z) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::line(int,int,int,int,struct color)" (?line@render@@YAXHHHHUcolor@@@Z) already defined in MainFunctions.obj
+render.obj : error LNK2005: "void __cdecl render::setup_fonts(void)" (?setup_fonts@render@@YAXXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "struct zgui::functions_t zgui::functions" (?functions@zgui@@3Ufunctions_t@1@A) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::backup_line(void)" (?backup_line@zgui@@YAXXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::same_line(float)" (?same_line@zgui@@YAXM@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::next_column(int,int)" (?next_column@zgui@@YAXHH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::dummy(void)" (?dummy@zgui@@YAXXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::text(char const *)" (?text@zgui@@YAXPEBD@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "bool __cdecl zgui::clickable_text(char const *)" (?clickable_text@zgui@@YA_NPEBD@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::listbox(char const *,class std::vector<struct zgui::multi_select_item,class std::allocator<struct zgui::multi_select_item> >)" (?listbox@zgui@@YAXPEBDV?$vector@Umulti_select_item@zgui@@V?$allocator@Umulti_select_item@zgui@@@std@@@std@@@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::multi_combobox(char const *,class std::vector<struct zgui::multi_select_item,class std::allocator<struct zgui::multi_select_item> >)" (?multi_combobox@zgui@@YAXPEBDV?$vector@Umulti_select_item@zgui@@V?$allocator@Umulti_select_item@zgui@@@std@@@std@@@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::combobox(char const *,class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >,int &)" (?combobox@zgui@@YAXPEBDV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@AEAH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::slider_float(char const *,float,float,float &)" (?slider_float@zgui@@YAXPEBDMMAEAM@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::slider_int(char const *,int,int,int &)" (?slider_int@zgui@@YAXPEBDHHAEAH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::text_input(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,int,int)" (?text_input@zgui@@YAXPEBDAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::key_bind(char const *,int &)" (?key_bind@zgui@@YAXPEBDAEAH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "bool __cdecl zgui::button(char const *,struct zgui::vec2)" (?button@zgui@@YA_NPEBDUvec2@1@@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::toggle_button(char const *,struct zgui::vec2,bool &)" (?toggle_button@zgui@@YAXPEBDUvec2@1@AEA_N@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::checkbox(char const *,bool &)" (?checkbox@zgui@@YAXPEBDAEA_N@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::end_groupbox(void)" (?end_groupbox@zgui@@YAXXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::begin_groupbox(class std::basic_string_view<char,struct std::char_traits<char> >,struct zgui::vec2,int)" (?begin_groupbox@zgui@@YAXV?$basic_string_view@DU?$char_traits@D@std@@@std@@Uvec2@1@H@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::end_window(void)" (?end_window@zgui@@YAXXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "bool __cdecl zgui::begin_window(class std::basic_string_view<char,struct std::char_traits<char> >,struct zgui::vec2,unsigned long,int)" (?begin_window@zgui@@YA_NV?$basic_string_view@DU?$char_traits@D@std@@@std@@Uvec2@1@KH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl split_str(char const *,char)" (?split_str@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@PEBDD@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "unsigned long __cdecl zgui::pop_font(void)" (?pop_font@zgui@@YAKXZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::push_font(unsigned long)" (?push_font@zgui@@YAXK@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "struct zgui::vec2 __cdecl zgui::pop_cursor_pos(void)" (?pop_cursor_pos@zgui@@YA?AUvec2@1@XZ) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::push_cursor_pos(struct zgui::vec2)" (?push_cursor_pos@zgui@@YAXUvec2@1@@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "bool __cdecl mouse_in_region(int,int,int,int)" (?mouse_in_region@@YA_NHHHH@Z) already defined in MainFunctions.obj
+zgui.obj : error LNK2005: "void __cdecl zgui::poll_input(struct HWND__ *)" (?poll_input@zgui@@YAXPEAUHWND__@@@Z) already defined in MainFunctions.obj
+     Creating library ..\build\poopooo peepeee.lib and object ..\build\poopooo peepeee.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+MainFunctions.obj : error LNK2001: unresolved external symbol "void __cdecl zgui::poll_input(class std::basic_string_view<char,struct std::char_traits<char> >)" (?poll_input@zgui@@YAXV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z)
+..\build\poopooo peepeee.dll : fatal error LNK1120: 1 unresolved externals
