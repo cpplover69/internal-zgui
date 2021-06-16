@@ -13,4 +13,6 @@ This most likely wont even build so youll prob have to fix some shit but its a s
 
 add "thing" into the main source folder and your good.
 
+ps. I had to use csgo sdk bc I couldnt figure out how to add a fucking font, soo...
+
 
