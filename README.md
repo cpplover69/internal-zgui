@@ -11,4 +11,6 @@ sdk and rendering framework pasted from: https://github.com/csgo/sdk
 
 This most likely wont even build so youll prob have to fix some shit but its a start ig lol.
 
+add "thing" into the main source folder and your good.
+
 
